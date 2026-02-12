@@ -90,11 +90,4 @@ This project demonstrates a complete Machine Learning lifecycle:
 
 It reflects practical implementation of Data Science in financial fraud detection.
 
----
-## 📸 Dashboard Preview
 
-![Overview](dashboard_screenshot/dashboard1.png)
-
-![Location and merchant risk](dashboard_screenshot/dashboard2.png)
-
-![Device and transaction type Analysis](dashboard_screenshot/dashboard3.png)
